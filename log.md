@@ -39,9 +39,9 @@ Work with R-Shiny
 
 ### Day 3: January 17, 2017 Tuesday
 
-**Today's Progress**: fixed some layout stuff
+**Today's Progress**: fixed some layout stuff on code club site
 
-**Thoughts**: 
+**Thoughts**: Jekyll is still confusing, should go back to basics tomorrow
 
 **Link(s) to work**: [OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/)
 
