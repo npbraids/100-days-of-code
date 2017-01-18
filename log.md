@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: January 13, 2017 
+### Day 0: January 13, 2017 Friday
 
 **Today's Progress**: learned about 100 days of code! Thought to myself, one hour a day sounds attainable.
 
@@ -12,20 +12,45 @@ Work with R-Shiny
 
 **Link to work:** [OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/)
 
-### Day 1: January 14, 2017
+### Day 1: January 14, 2017 Saturday
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Worked on setting up code club site
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: [OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+
+### Day x: January 15, 2017 Sunday
+
+**Today's Progress**: no progress, solo parenting 
+
+**Thoughts**: hard to code with a toddler around.
+
+**Link(s) to work**: none
+
+
+### Day 2: January 15, 2017 Monday
+
+**Today's Progress**: fixed favicon and worked on understanding jekyll site organization
+
+**Thoughts**: 
+
+**Link(s) to work**: [OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/)
+
+
+### Day 3: January 17, 2017 Tuesday
+
+**Today's Progress**: fixed some layout stuff
+
+**Thoughts**: 
+
+**Link(s) to work**: [OHSU Code Club](https://daniellecrobinson.github.io/OHSU-Code-Club/)
 
 
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
