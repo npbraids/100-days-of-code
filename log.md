@@ -12,6 +12,12 @@ Build a personal website
 **Resources: (https://www.freecodecamp.com/challenges/learn-how-free-code-camp-works)**
 Signed up and looked around site to see how to best organize my day to get in an hour/day.
 
-### Day 1: 
+### Day 1: January 30, 2017 Sunday
+
+**Today's Progress**: Spent 45 minutes using freecodecamp to learn basics of HTML, debating spending another 15 minutes but I wanted sleep.
+
+### Day 2: January 31, 2017 Monday
+
+**Today's Progress**: Started the day with coding to make sure I got in 1 hour and 15 minutes to make up for yesterday. After ~45 minutes I wanted to stop feeling, not necessarily overwhelmed but just that I was at a good stopping place. Instead I walked away and came back to finsh another 30 minutes. HTML is usful and already I think I can apply some of these lessons to my blog, but I'm wondering if it would be better to alternate with some python? Or perhaps the mix of lanuages would be too much? 
 
 
