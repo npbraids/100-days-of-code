@@ -20,4 +20,8 @@ Signed up and looked around site to see how to best organize my day to get in an
 
 **Today's Progress**: Started the day with coding to make sure I got in 1 hour and 15 minutes to make up for yesterday. After ~45 minutes I wanted to stop feeling, not necessarily overwhelmed but just that I was at a good stopping place. Instead I walked away and came back to finsh another 30 minutes. HTML is usful and already I think I can apply some of these lessons to my blog, but I'm wondering if it would be better to alternate with some python? Or perhaps the mix of lanuages would be too much? 
 
+### Day 5: February 4, 2017 Saturday
+
+**Progress**: I haven't logged but I've continued to make time for coding...well minus the 2nd, hence the reason I'm counting today as day 5. Making progres with freeCodeCamp, and by coding everyday the lanuage is really sticking. I can't wait to see where I am come day 100!***
+
 
