@@ -22,6 +22,8 @@ Signed up and looked around site to see how to best organize my day to get in an
 
 ### Day 5: February 4, 2017 Saturday
 
-**Progress**: I haven't logged but I've continued to make time for coding...well minus the 2nd, hence the reason I'm counting today as day 5. Making progres with freeCodeCamp, and by coding everyday the lanuage is really sticking. I can't wait to see where I am come day 100!***
+**Progress**: I haven't logged but I've continued to make time for coding...well minus the 2nd, hence the reason I'm counting today as day 5. Making progres with freeCodeCamp, and by coding everyday the lanuage is really sticking. I can't wait to see where I am come day 100!
 
+### Day 6 and 7: Feb 6, 2017 Monday
+**Today's Progress**: Wahoo, I completed my first freeCodeCamp "assignment!" Feels so good to complete the Tribute page now moving onto the portfolio which will surely take much longer...
 
